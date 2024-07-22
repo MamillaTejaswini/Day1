@@ -7,14 +7,14 @@ function Assignment1(){
         <div>
             <h3>Reviews</h3>
         <div>
-            <img src='/book.jpeg'height='25px'weight='30px'></img>
+            <img src='/book.jpeg'height='25px'width='30px'></img>
             <ul>
                 {Array1List}
             </ul>
         </div>
         <div>
+        <img src='/book.jpeg'height='25px'width='30px'></img>
             <ul>
-            <img src='/book.jpeg'height='25px'weight='30px'></img>
             {Array2List}
             </ul>
     </div>
